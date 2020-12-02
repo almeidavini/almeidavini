@@ -7,21 +7,27 @@
 
 <h3> 🛠 &nbsp;Tecnologias </h3>
 
-<p align="left">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/almeidavini/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/almeidavini/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>
- 
+<p align="left"> 
   <a href="#">
     <img src="https://raw.githubusercontent.com/almeidavini/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>  
-  
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/almeidavini/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>
   <a href="#">
     <img src="https://raw.githubusercontent.com/almeidavini/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/almeidavini/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/almeidavini/ColoredBadges/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/almeidavini/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="vs" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/almeidavini/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:6px 4px">
+  </a>
 </p>
 
