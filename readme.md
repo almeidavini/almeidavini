@@ -7,7 +7,7 @@
 
 <h3> 🛠 &nbsp;Tecnologias </h3>
 
-<p align="center">
+<p align="left">
   <a href="#">
     <img src="https://raw.githubusercontent.com/almeidavini/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
   </a>  
