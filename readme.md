@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Estudando Sistemas de informação na Universidade Nove de Julho.
 - 💼 &nbsp; Estagiário em desenvolvimento de sistemas.
 
-### Languages 
+<h3> 🛠 &nbsp;Tecnologias </h3>
 
 <p align="left">
   <a href="#">
