@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/almeidavini/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
