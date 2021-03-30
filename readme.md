@@ -2,5 +2,5 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🎓 &nbsp; Estudante de Sistemas de informação na Universidade Nove de Julho.
-- 💼 &nbsp; Estagiário em desenvolvimento de sistemas.
+- 🎓 &nbsp; Estudante de Sistemas de Informação na Universidade Nove de Julho.
+- 💼 &nbsp; Estagiário em Desenvolvimento de Distemas.
